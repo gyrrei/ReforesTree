@@ -18,7 +18,7 @@ In alphabetical order
 
 ## Dataset Components
 For each site the data we publish consists of four components free for use:
-1. 🛸 Raw drone RGB images _(see wwf_ecuador/"Name of site")_
+1. 🛸 Raw drone RGB images _(see wwf_ecuador)_
 2. 🌴 Hand measured tree parameters (diameter at breast height, species, biomass, and location) of every tree _(see field_data.csv)_
 3. 🔲 Set of bounding boxes of trees for each site cleaned by hand and labeled as banana or not banana _(see annotations/cleaned)_
 4. ↔️ Mappings of these bounding boxes with tree labels based on location _(see mappings/final)_
