@@ -1,9 +1,10 @@
 # ReforesTree
 
 We are excited to share the ReforesTree dataset! 🎉
+
 We introduce the ReforesTree dataset in hopes of encouraging the fellow machine learning community to take on the challenge of developing low-cost, scalable, trustworthy and accurate solutions for monitoring, verification and reporting of tropical reforestation inventory. 
 
-<img src="utils/illustrations/all_sites.png" alt="illustration of all sites" width="300"/>
+<img src="utils/illustrations/all_sites.png" alt="illustration of all sites" width="400"/>
 
 #### This is a dataset for the following 6 agroforestry sites
 In alphabetical order
