@@ -1,0 +1,17 @@
+POT
+Pillow
+pandas>=1.1.3
+numpy>=1.19.5
+geopandas>=0.8.1
+rasterio>=1.1.8
+matplotlib>=3.3.3
+shapely>=1.7.1
+opencv-python
+seaborn>=0.11.1
+scikit-image>=0.17.2
+pyproj>=2.2
+setuptools
+pytorch-lightning>=1.4.4
+torch>=1.9.0
+tensorboard>=2.6.0
+torchvision>=0.10.0
