@@ -1,4 +1,4 @@
-# ReforesTree
+# ReforesTree 🌴
 
 We are excited to share the ReforesTree dataset! 🎉
 
