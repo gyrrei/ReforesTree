@@ -21,7 +21,7 @@ For each site the data we publish consists of four components free for use:
 1. 🛸 Raw drone RGB images _(see wwf_ecuador)_
 2. 🌴 Hand measured tree parameters (diameter at breast height, species, biomass, and location) of every tree _(see field_data.csv)_
 3. 🔲 Set of bounding boxes of trees for each site cleaned by hand and labeled as banana or not banana _(see annotations/cleaned)_
-4. ↔️ Mappings of these bounding boxes with tree labels based on location _(see mappings/final)_
+4. ↔️ Mappings of these bounding boxes with tree labels based on GPS location _(see mappings/final)_
 
 You can download the data [from dropbox](https://www.dropbox.com/scl/fo/qzlq48k06dbksvrl3kk1o/h?dl=0&rlkey=hpq3r63b1tbpqa02f5tyh8l6s) and put the "data" folder in the main repo. All processed data is available directly to use, but if you want to process it yourself, feel free to only download "www_ecuador" and "field_data.csv" and follow the tutorial below.
 
